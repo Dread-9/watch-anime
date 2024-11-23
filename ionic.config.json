@@ -1,0 +1,7 @@
+{
+  "name": "watch-anime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
